@@ -51,11 +51,5 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=vfcastr&icon=0&color=0" alt="Profile Views">
-  </a>
-</p>
-
-<p align="center">
   <sub>⭐ Feel free to explore my repositories and contribute!</sub>
 </p>
