@@ -30,6 +30,7 @@
 | [Dell Networker](https://github.com/vfcastr/Zabbix-Dell-Networker-Template) | Backup monitoring via REST API v3 |
 | [IBM Spectrum Virtualize](https://github.com/vfcastr/Zabbix-IBM-Spectrum-Virtualize-Template) | FlashSystem/Storwize via SSH |
 | [Veritas NetBackup](https://github.com/vfcastr/Zabbix-Veritas-Netbackup-Template) | Backup jobs monitoring via API |
+| [Windows PrintServer](https://github.com/vfcastr/Zabbix-Windows-PrinterManagement-Template) | Printer status monitoring |
 
 ---
 
