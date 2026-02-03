@@ -29,6 +29,7 @@
 | [Dell Metro Node](https://github.com/vfcastr/Zabbix-Dell-MetroNode-Template) | VPLEX monitoring via REST API v2 |
 | [Dell Networker](https://github.com/vfcastr/Zabbix-Dell-Networker-Template) | Backup monitoring via REST API v3 |
 | [IBM Spectrum Virtualize](https://github.com/vfcastr/Zabbix-IBM-Spectrum-Virtualize-Template) | FlashSystem/Storwize via SSH |
+| [Redpanda](https://github.com/vfcastr/Zabbix-Redpanda-Template) | Redpanda monitoring |
 | [Veritas NetBackup](https://github.com/vfcastr/Zabbix-Veritas-Netbackup-Template) | Backup jobs monitoring via API |
 | [Windows PrintServer](https://github.com/vfcastr/Zabbix-Windows-PrinterManagement-Template) | Printer status monitoring |
 
