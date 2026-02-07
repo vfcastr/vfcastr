@@ -33,6 +33,12 @@
 | [Veritas NetBackup](https://github.com/vfcastr/Zabbix-Veritas-Netbackup-Template) | Backup jobs monitoring via API |
 | [Windows PrintServer](https://github.com/vfcastr/Zabbix-Windows-PrinterManagement-Template) | Printer status monitoring |
 
+### 🤖 AI Tools
+
+| Template | Description |
+|----------|-------------|
+| [Zabbix MCP](https://github.com/vfcastr/Zabbix-MCP) | Zabbix MCP Server |
+
 ---
 
 ## 💻 Tech Stack:
